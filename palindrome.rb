@@ -1,6 +1,6 @@
 # RUBY PALINDROME
 
-def palindrome(str)
+def palindrome?(str)
  
 end
 
